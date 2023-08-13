@@ -59,10 +59,10 @@
 </ol>
 
 Документация к проекту: <br>
-<ul>
-  <li>[План тестирования](https://drive.google.com/file/d/17EYXuZvPMxStDbkMddy095Zr1qDJDScS/view?usp=sharing)</li>
-  <li>[Отчет о тестировании итогового проекта](https://drive.google.com/file/d/17NTY1XNqi0nLLOnHGeIjfHbYmMhZUO2d/view?usp=sharing)</li>
-</ul>
+
+  [План тестирования](https://drive.google.com/file/d/17EYXuZvPMxStDbkMddy095Zr1qDJDScS/view?usp=sharing) <br>
+  [Отчет о тестировании итогового проекта](https://drive.google.com/file/d/17NTY1XNqi0nLLOnHGeIjfHbYmMhZUO2d/view?usp=sharing)
+
  
  <p>Выводы (итоги):<p>
    
