@@ -9,7 +9,7 @@
 ## Навыки и технологии
 ``Jira``,``qase.io``,``PostgreSQL``,`` Postman``,``Gcode``,``Swagger``,``Trello``, <br>
 ``SoapUI``,``Android Studio``,``Confluence``,``Git``,``Chrome DevTools``, <br>
-``Basic``,``Fortran``,``Pascal``
+``Basic``,``Fortran``,``Pascal``,``SolidWorks``,``Simplify3d``
 
 
 
