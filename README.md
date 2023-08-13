@@ -59,8 +59,8 @@
 </ol>
 
 Документация к проекту: <br>
-https://drive.google.com/file/d/17EYXuZvPMxStDbkMddy095Zr1qDJDScS/view?usp=sharing , <br>
-https://drive.google.com/file/d/17NTY1XNqi0nLLOnHGeIjfHbYmMhZUO2d/view?usp=sharing
+[План тестирования](https://drive.google.com/file/d/17EYXuZvPMxStDbkMddy095Zr1qDJDScS/view?usp=sharing) <br>
+[Отчет о тестировании итогового проекта-git](https://drive.google.com/file/d/17NTY1XNqi0nLLOnHGeIjfHbYmMhZUO2d/view?usp=sharing)
 
  
  <p>Выводы (итоги):<p>
