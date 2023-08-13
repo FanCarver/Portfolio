@@ -93,7 +93,9 @@
   Тестовое задание на основе сервиса Яндекс.Погода для проверки всех приобретенных навыков  <br>
   https://drive.google.com/file/d/17OpcLUGb_t5jzPivCmS6mo-rQ5c_S2ws/view?usp=sharing
   
-
+<br>
+<br>
+<br>
 
 ## Контактная информация
 - Email: fancarv3r@yandex.ru
