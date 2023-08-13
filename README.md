@@ -7,8 +7,8 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``PostgreSQL``,`` Postman``,``Gcode``,``Swagger``,``Trello``, <br>
-``SoapUI``,``Android Studio``,``Confluence``,``Git``,``Chrome DevTools``, <br>
+``Jira``,``qase.io``,``PostgreSQL``,``Postman``,``Gcode``,``Swagger``,``Trello``, <br>
+``SoapUI``,``Android Studio``,``Confluence``,``Git``,``Chrome DevTools``,``Sitechco``, <br>
 ``Basic``,``Fortran``,``Pascal``,``SolidWorks``,``Simplify3d``,``Miro``,``Json``
 
 
