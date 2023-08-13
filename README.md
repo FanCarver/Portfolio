@@ -59,6 +59,9 @@
 </ol>
 
 Документация к проекту: 
+https://drive.google.com/file/d/17EYXuZvPMxStDbkMddy095Zr1qDJDScS/view?usp=sharing
+https://drive.google.com/file/d/17NTY1XNqi0nLLOnHGeIjfHbYmMhZUO2d/view?usp=sharing
+
  
  <p>Выводы (итоги):<p>
 <ol>
